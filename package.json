@@ -13,7 +13,7 @@
     "url": "git+https://github.com/Hitoshi5858/comp-react-full-final-bookshelf.git"
   },
   "engines": {
-    "node":"8.6.0"
+    "node": "8.6.0"
   },
   "author": "",
   "license": "ISC",
