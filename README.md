@@ -1,7 +1,7 @@
 # comp-react-full-final-bookshelf
 
-##Start MongoDB frontend
+## Start MongoDB frontend
 sudo mongod --dbpath /var/lib/mongodb --logpath /var/g/mongodb.log
 
-##Start MongoDB backend
+## Start MongoDB backend
 sudo mongod --fork --dbpath /var/lib/mongodb --logpath /var/log/mongodb.log
